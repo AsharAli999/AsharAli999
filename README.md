@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)](https://asharop)
+
 <h1 align="center">Hi 👋, I'm Ashar Ali</h1>
 <h3 align="center">Code, Create, Repeat: Unleashing MERN, React Native and WEB 3.0 Magic</h3>
 
