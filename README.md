@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://ashar-psi.vercel.app](https://ashar-psi.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ashar-op.vercel.app](https://ashar-op.vercel.app)
 
 - 💬 Ask me about **MERN Stack, React Native**
 
