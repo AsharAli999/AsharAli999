@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashar Ali</h1>
 <h3 align="center">Code, Create, Repeat: Unleashing MERN, React Native and Blockchain Magic</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharali999&label=Profile%20views&color=0e75b6&style=flat" alt="asharali999" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashar__op" target="blank"><img src="https://img.shields.io/twitter/follow/ashar__op?logo=twitter&style=for-the-badge" alt="ashar__op" /></a> </p>
