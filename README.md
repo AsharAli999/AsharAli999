@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashar-op.vercel.app](https://ashar-op.vercel.app)
 
-- 💬 Ask me about **MERN Stack, React Native**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **asherali1001@gmail.com**
 
